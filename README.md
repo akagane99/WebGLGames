@@ -7,3 +7,6 @@
 1. coinゲーム途中WebGL2
     * https://akagane99.github.io/WebGLGames/coin2/
     * ［スペース］キーでコイン落ちる。[←][→]キーでコイン落ちるところが動く
+1. coinゲーム途中WebGL3
+    * https://akagane99.github.io/WebGLGames/coin3/
+    * 壁付けた
