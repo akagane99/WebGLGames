@@ -9,4 +9,7 @@
     * ［スペース］キーでコイン落ちる。[←][→]キーでコイン落ちるところが動く
 1. coinゲーム途中WebGL3
     * https://akagane99.github.io/WebGLGames/coin3/
-    * 壁付けた
+    * 壁付けた。バグで壁めりこむ
+1. coinゲーム途中WebGL4
+    * https://akagane99.github.io/WebGLGames/coin4/
+    * バグ修正。壁めりこむけど壁むこうに行かなくした
