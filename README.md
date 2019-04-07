@@ -13,3 +13,6 @@
 1. coinゲーム途中WebGL4
     * https://akagane99.github.io/WebGLGames/coin4/
     * バグ修正。壁めりこむけど壁むこうに行かなくした
+1. coinゲーム途中WebGL5
+    * https://akagane99.github.io/WebGLGames/coin5/
+    * バグ修正2。壁めりこみを直値指定で修正
